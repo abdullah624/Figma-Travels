@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+.leftDiv{
+    padding-top: 20px;
+    padding-left: 10px;
+    float: left;
+    width: 266px;
+    height: 900px;
+    
+}
+
+
+.link{
+    margin-bottom: 10px;
+}
+
+.navLink{
+    color: rgba(0, 0, 0, 0.75);
+    text-decoration: none;
+    margin-left: 25px;
+    vertical-align: middle;
+}
+
+.navLink:hover{
+    color: rgba(0, 0, 0, 1);
+}
+
+.material-icons{
+    font-size: 1.3rem;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.navLink:hover{
+    text-decoration: underline;
+}
+
+.profile{
+    width: 266px;
+    height: 25px;
+    padding-left: 25px;
+}
+
+.p-img{
+    width: 25px;
+    height: 25px;
+    background-image: url(../images/profile.png);
+    background-size: 100% 100%;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.p-name{
+    padding-top: 4px;
+}
+
+p{
+    float: left;
+}
+
+.hr1{
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-left: 15px;
+}
+
+.hr2{
+    margin-right: 50px;
+    margin-left: 15px;
+}
